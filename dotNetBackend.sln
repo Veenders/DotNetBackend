@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetBackend", "dotNetBackend\dotNetBackend.csproj", "{F4624AF2-11BC-4F51-97CC-435C921B4075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetBackend.Tests", "dotNetBackend.Tests\dotNetBackend.Tests.csproj", "{AAA4FA75-BF20-409D-962E-A8D657DC943F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4624AF2-11BC-4F51-97CC-435C921B4075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4624AF2-11BC-4F51-97CC-435C921B4075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4624AF2-11BC-4F51-97CC-435C921B4075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4624AF2-11BC-4F51-97CC-435C921B4075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA4FA75-BF20-409D-962E-A8D657DC943F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA4FA75-BF20-409D-962E-A8D657DC943F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA4FA75-BF20-409D-962E-A8D657DC943F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA4FA75-BF20-409D-962E-A8D657DC943F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1C9668-44FA-49FE-8204-BC3FDBEE1206}
+	EndGlobalSection
+EndGlobal
